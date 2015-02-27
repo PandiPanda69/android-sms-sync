@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Sms Sync</string>
+    <string name="description_label">Synchronize your SMS with your own PIMS.</string>
+    <string name="start">Start synchronization</string>
+    <string name="configure">Configure</string>
+    <string name="back">Back</string>
+
+    <string name="service_url">Service URL:</string>
+    <string name="service_header">Service key header:</string>
+    <string name="service_key">Service key:</string>
+    <string name="chunk_size">Chunk size (in messages):</string>
+    
+    <string name="error">Error</string>
+    <string name="no_network_msg">No network available.</string>
+    <string name="no_service_url">No service url provided. Please configure it before starting backup.</string>
+
+</resources>
