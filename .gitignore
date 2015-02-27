@@ -11,6 +11,7 @@
 # Generated files
 bin/
 gen/
+dist/
 
 # Gradle files
 .gradle/
@@ -24,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+# Keystore
+keystore
+
